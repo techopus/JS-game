@@ -1,6 +1,6 @@
 # JacobsHackathon2021
 
-Jacobshack theme-based game built from scratch with Canvas API.
+Jacobshack theme-based game built from scratch with Canvas (API).
 
 billy-the character :)
 
